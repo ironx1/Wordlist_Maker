@@ -1,0 +1,7 @@
+Windows İçin;
+
+Programı çalıştırmak için cmd'ye "Wordlist_Maker.py" komutunu vermeniz yeterlidir.
+
+Linuz İçin;
+
+Programı çalıştırmak için terminali açıp "python3 Wordlist_Maker.py" komutunu kullanabilirsiniz.
